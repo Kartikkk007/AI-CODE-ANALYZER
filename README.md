@@ -1,10 +1,1 @@
-```javascript
-const sum = (a, b) => {
-  const bigA = BigInt(a);
-  const bigB = BigInt(b);
-  return bigA + bigB;
-};
-
-```javascript
-const sum = (a, b) => a + b;
-```
+https://github.com/user-attachments/assets/938f2ed2-0c5b-423a-acf6-050f63e44b15
