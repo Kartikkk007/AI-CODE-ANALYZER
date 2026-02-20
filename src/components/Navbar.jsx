@@ -18,7 +18,7 @@ const Navbar = () => {
           </div>
         </div>
         <div className="flex items-baseline gap-1">
-          <span className="text-xl font-bold tracking-tight text-white">Codeify</span>
+           <span className="text-xl font-bold tracking-tight text-white">Codelyzer</span>
           <span className="text-[10px] font-semibold text-violet-400 bg-violet-500/10 border border-violet-500/20 rounded-full px-2 py-0.5 ml-1">AI</span>
         </div>
       </div>
